@@ -1,5 +1,10 @@
+
+
 import styled from "styled-components";
 import PropTypes from "prop-types";
+import React from 'react';
+
+
 
 const ToggleButton = styled.button`
   margin-top: 10px;
@@ -9,7 +14,8 @@ const ToggleButton = styled.button`
   color: ${(props) => (props.theme.darkMode ? "#000" : "#fff")};
   border: none;
   border-radius: 5px;
-  cursor: pointer;
+  cursor: pointer;npm install --save-dev jest-styled-components
+
   transition: all 0.3s;
   &:hover {
     opacity: 0.8;

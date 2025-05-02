@@ -3,7 +3,7 @@ import { ThemeProvider } from "styled-components";
 import GlobalStyle from "./styles/global";
 import HeaderComponent from "./components/Header";
 import WeatherContent from "./components/WeatherContent";
-import ToggleButtonComponent from "./components/ToogleButton";
+import ToggleButtonComponent from "./components/ToggleButton";
 import SearchBar from "./components/SearchBar";
 import { fetchWeatherData } from "./utils/api";
 

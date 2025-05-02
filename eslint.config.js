@@ -22,6 +22,7 @@ export default [
       react,
       'react-hooks': reactHooks,
       'react-refresh': reactRefresh,
+      'react/react-in-jsx-scope': 'off',
     },
     rules: {
       ...js.configs.recommended.rules,
