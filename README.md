@@ -1,5 +1,5 @@
  Weather App  
- 
+
 A simple weather application built with React.js, Styled Components, and Tailwind CSS.
 
 Features  
@@ -12,33 +12,25 @@ Features
 - Styled Components CSS-in-JS, using styled-components to write CSS inside JavaScript files, which allows for dynamic styling based on props.
 - Responsive Design with Tailwind CSS, using Tailwind for responsive layouts and styling, which shows proficient in utility-first CSS frameworks and responsive design techniques.
 
-6. Theming:
-Custom Themes: You're implementing theme toggling between light and dark modes, which is a great example of theming with Styled Components, React context, or state.
+- Theming: Custom Theme, implementing theme toggling between light and dark mode, which is an example of theming with Styled Components and state.
 
-7. Routing (optional if you plan to add multiple pages):
-React Router (if applicable): In case your app grows with different pages (e.g., city search, settings, etc.), you might use React Router for routing.
+- Version Control Git & GitHub, using Git for version control and GitHub for remote storage, this demonstrates collaboration and tracking changes in the codebase.
+- Build & Deployment:
+Vite:  using Vite for fast development and bundling, which improves build performance.
+- Deploying the app on platform Vercel and GitHub Pages.
 
-8. Error Handling:
-Error Boundary (if added): Handling API errors or providing fallback UI in case of an error (e.g., network failure or invalid city).
+*** Routing (in process):
+React Router when the app grows with different pages (e.g., city search, settings, etc.).
 
-9. Code Splitting:
-React Lazy Loading (optional): If your app becomes more complex and you want to optimize performance, you can implement React’s lazy loading and dynamic import to split your code.
+*** Error Handling (in process): Handling API errors or providing fallback UI in case of an error (e.g., network failure or invalid city).
 
-10. Version Control:
-Git & GitHub: If you are using Git for version control and GitHub for remote storage, this would demonstrate collaboration and tracking changes in the codebase.
+*** Code Splitting: React Lazy Loading (in process): If the app becomes more complex to optimize performance.
 
-11. Build & Deployment:
-Vite: You’re using Vite for fast development and bundling, which improves build performance.
-
-Deployment: Deploying your app on platforms like Netlify, Vercel, or GitHub Pages would be an essential step to showcase your deployment process.
-
-12. Optimization:
-Performance: Using performance optimization strategies like lazy loading images (e.g., for weather icons or background images) or memoization of components to avoid unnecessary re-renders.
 
 Overall Skills & Technologies:
-React.js (Frontend Framework): Your app is built with React, which is one of the most popular frontend libraries.
+React.js (Frontend Framework)
 
-JavaScript (ES6+ features): You're utilizing modern JavaScript features, such as destructuring, arrow functions, and template literals.
+JavaScript (ES6+ features): Utilizing modern JavaScript features, such as destructuring, arrow functions, and template literals.
 
 Styled Components: For writing CSS in JS and dynamically styling components.
 
@@ -46,9 +38,9 @@ Tailwind CSS: A utility-first CSS framework that allows rapid UI development.
 
 API Integration: Fetching and displaying data from an external API (WeatherAPI).
 
-Version Control with Git: If you're using Git for collaboration and source code management.
+Version Control with Git
 
-Responsive Design: Ensuring your app looks great on various screen sizes, likely using Tailwind's responsive utilities.
+Responsive Design: Ensuring the app looks great on various screen sizes, likely using Tailwind's responsive utilities.
 
 
 
